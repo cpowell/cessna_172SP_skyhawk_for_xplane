@@ -1,0 +1,39 @@
+==============================
+Update 2011-02-17 by Chris Powell
+Cessna 172SP (Late 1990s)
+Tested with X-Plane 9.67, should work fine in others
+
+Story / documentation / updates:
+http://cbpowell.wordpress.com/2010/09/04/modified-cessna-172-model-for-x-plane/
+
+======================================
+======== X-PLANE - CESSNA 172 ========
+======================================
+feb/2009
+by www.dmax.it
+
+version: 1.1.1
+
+======================================
+this file is here to compare versions!
+======================================
+
+1.1.2 - added the night panel lighting
+
+1.1.1 - optimization for x-plane 9.3.0
+	added manipulators attributes (draggable handle) in the cockpit 3d
+	added inside cockpit lights
+	panel done using regions to use cockpit lights and optimize fps
+	all aircraft is now obj with no planemaker parts visible
+
+1.1.0 -	moved glass in his own obj
+	added no-walk-through-box to the cockpit obj
+
+1.0.3 -	all animated flight commands moved
+	on the cockpit obj
+
+1.0.2 -	moved pilot in his own obj
+
+1.0.1 -	added a wide panel
+
+1.0.0 -	the born!
